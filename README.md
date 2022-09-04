@@ -1,21 +1,19 @@
 GitHub Downloads Count
 ======================
 
-This script shows the downloads count of the GitHub repositories.
-
-You must put the archive file in a GitHub release, an example is on [GitHub Blog - Release Your Software](https://github.com/blog/1547-release-your-software).
+This script shows the download count of Public GitHub repositories.
 
 In order to get the downloads count of all GitHub repositories of a specific user, you need to execute:
 
-    ./gdc github-username
+    python3 gdc github-username
 
 You can specify a single project:
 
-    ./gdc github-username github-projectname
+    python3 gdc github-username github-projectname
 
 Example:
 
-    ./gdc rethinkdb
+    python3 gdc rethinkdb
 
 output is:
 
