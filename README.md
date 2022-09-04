@@ -15,7 +15,7 @@ Example:
 
     python3 gdc rethinkdb
 
-output is:
+giving the output:
 
     rethinkdb-1.7.0.dmg: 454 downloads
     rethinkdb-1.7.0.i686.rpm: 449 downloads
